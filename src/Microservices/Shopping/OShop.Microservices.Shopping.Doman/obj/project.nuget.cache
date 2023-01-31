@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9csflEhqC+CdjKuqhcioA10XCttMmR1BaqjUD1EJ/sl834+zCKD6EbdJhx/kYiG9N/6p9tSkrf323uLtjihbKQ==",
+  "success": true,
+  "projectFilePath": "D:\\templets\\OShop\\OShop\\src\\Microservices\\Shopping\\OShop.Microservices.Shopping.Doman\\OShop.Microservices.Shopping.Doman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

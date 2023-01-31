@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="3.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.0.0" />
+    <PackageReference Include="Scrutor" Version="4.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OShop.Microservices.Shopping.DataInterfaces\OShop.Microservices.Shopping.DataInterfaces.csproj" />
+    <ProjectReference Include="..\OShop.Microservices.Shopping.Data\OShop.Microservices.Shopping.Data.csproj" />
+    <ProjectReference Include="..\OShop.Microservices.Shopping.ServiceInterfaces\OShop.Microservices.Shopping.ServiceInterfaces.csproj" />
+    <ProjectReference Include="..\OShop.Microservices.Shopping.Services\OShop.Microservices.Shopping.Services.csproj" />
+  </ItemGroup>
+
+</Project>

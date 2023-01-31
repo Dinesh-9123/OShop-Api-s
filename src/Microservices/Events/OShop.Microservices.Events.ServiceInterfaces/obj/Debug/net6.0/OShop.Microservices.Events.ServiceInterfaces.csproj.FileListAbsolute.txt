@@ -1,0 +1,12 @@
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\bin\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.deps.json
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\bin\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.dll
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\bin\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.pdb
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.csproj.AssemblyReference.cache
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.AssemblyInfoInputs.cache
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.AssemblyInfo.cs
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.csproj.CoreCompileInputs.cache
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.dll
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\obj\Debug\net6.0\refint\OShop.Microservices.Events.ServiceInterfaces.dll
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.ServiceInterfaces.pdb
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.ServiceInterfaces\obj\Debug\net6.0\ref\OShop.Microservices.Events.ServiceInterfaces.dll

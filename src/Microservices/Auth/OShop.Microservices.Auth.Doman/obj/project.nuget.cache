@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uWtXJs/1aAS9y0YBxtw7ly3IvxE+AxhMViuQfKlYXdm7/4H/YoFrymQ3DIN2wS/IVPbzOxsUwmq62zLyjeMGhQ==",
+  "success": true,
+  "projectFilePath": "D:\\templets\\OShop\\OShop\\src\\Microservices\\Auth\\OShop.Microservices.Auth.Doman\\OShop.Microservices.Auth.Doman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

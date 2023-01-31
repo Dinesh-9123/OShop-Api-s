@@ -1,0 +1,12 @@
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\bin\Debug\net6.0\OShop.Microservices.Events.Doman.deps.json
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\bin\Debug\net6.0\OShop.Microservices.Events.Doman.dll
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\bin\Debug\net6.0\OShop.Microservices.Events.Doman.pdb
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\obj\Debug\net6.0\OShop.Microservices.Events.Doman.csproj.AssemblyReference.cache
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\obj\Debug\net6.0\OShop.Microservices.Events.Doman.GeneratedMSBuildEditorConfig.editorconfig
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\obj\Debug\net6.0\OShop.Microservices.Events.Doman.AssemblyInfoInputs.cache
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\obj\Debug\net6.0\OShop.Microservices.Events.Doman.AssemblyInfo.cs
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\obj\Debug\net6.0\OShop.Microservices.Events.Doman.csproj.CoreCompileInputs.cache
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\obj\Debug\net6.0\OShop.Microservices.Events.Doman.dll
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\obj\Debug\net6.0\refint\OShop.Microservices.Events.Doman.dll
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\obj\Debug\net6.0\OShop.Microservices.Events.Doman.pdb
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.Doman\obj\Debug\net6.0\ref\OShop.Microservices.Events.Doman.dll

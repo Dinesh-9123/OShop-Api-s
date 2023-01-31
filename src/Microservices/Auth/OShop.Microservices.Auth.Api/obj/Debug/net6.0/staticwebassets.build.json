@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "glWC7QCDaxK+eYJ4MSqradG1xW/s+KqtzQskDHh/B18=",
+  "Source": "OShop.Microservices.Auth.Api",
+  "BasePath": "_content/OShop.Microservices.Auth.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6kvuRYY+GqbBgIdAW9+zWwbgNqXwctqu2gUiPO7QsoEIsMv4A6goCfvgv/vt0ScrcOSVvcRUiyscpV8wjE0tA==",
+  "success": true,
+  "projectFilePath": "D:\\templets\\OShop\\OShop\\src\\Microservices\\Shopping\\OShop.Microservices.Shopping.ServiceInterfaces\\OShop.Microservices.Shopping.ServiceInterfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

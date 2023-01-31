@@ -1,0 +1,12 @@
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\bin\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.deps.json
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\bin\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.dll
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\bin\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.pdb
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.csproj.AssemblyReference.cache
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.AssemblyInfoInputs.cache
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.AssemblyInfo.cs
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.csproj.CoreCompileInputs.cache
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.dll
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\obj\Debug\net6.0\refint\OShop.Microservices.Events.DataInterfaces.dll
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\obj\Debug\net6.0\OShop.Microservices.Events.DataInterfaces.pdb
+D:\templets\OShop\OShop\src\Microservices\Events\OShop.Microservices.Events.DataInterfaces\obj\Debug\net6.0\ref\OShop.Microservices.Events.DataInterfaces.dll

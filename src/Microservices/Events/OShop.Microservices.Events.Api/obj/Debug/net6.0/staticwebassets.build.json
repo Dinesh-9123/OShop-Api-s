@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UUuQIBpr5uJZOQU6KKcTfD6RBxNe4FwQK6dY75RyeHc=",
+  "Source": "OShop.Microservices.Events.Api",
+  "BasePath": "_content/OShop.Microservices.Events.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

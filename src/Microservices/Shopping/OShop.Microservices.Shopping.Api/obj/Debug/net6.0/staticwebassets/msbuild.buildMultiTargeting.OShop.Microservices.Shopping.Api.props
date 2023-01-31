@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OShop.Microservices.Shopping.Api.props" />
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OShop.Microservices.Events.DataInterfaces/1.0.0": {
+        "runtime": {
+          "OShop.Microservices.Events.DataInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OShop.Microservices.Events.DataInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

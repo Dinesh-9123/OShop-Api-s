@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o5KNhmPYLA2x9DAA7ggstPU8eAFtbfgtRJrZF0OzJ6c=",
+  "Source": "OShop.Microservices.Shopping.Api",
+  "BasePath": "_content/OShop.Microservices.Shopping.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
